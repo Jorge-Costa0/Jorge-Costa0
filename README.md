@@ -1,8 +1,13 @@
-## Hi Jorge
+## Hi, I’m Jorge Costa — a 17-year-old tech enthusiast from Angola.
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Jorge Costa, tenho 17 anos atualmente e sou natural do Angola. estou no ensino médio da Itel, cursando técnico em informática. Atualmente, estou estudando diariamente pra meus proejtos. Sou apaixonado por tecnologia e e programação , e sou autodidata em desenvolvimento. compartilho meu conhecimento através do meu canal no YouTube "[Dev Gox](https://www.youtube.com/@DevGox)", onde ensino a criar projetos web,bots,IA,aumatizaçoes,segurança.
+I’m currently studying IT at Itel High School and dedicating my days to building and learning through hands-on projects. I’m passionate about technology, programming, and self-taught development.
+
+On my YouTube channel, "[Dev Gox](https://www.youtube.com/@DevGox)" I share what I learn — from web development and automation to AI, bots, and cybersecurity.
+
+If you're into tech, you're in the right place.
+
 
 <p align="left">
     <a href="https://www.youtube.com/@DevGox?sub_confirmation=1">
