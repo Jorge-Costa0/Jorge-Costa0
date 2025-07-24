@@ -1,4 +1,4 @@
-## Hi, I’m Jorge Costa — a 17-year-old tech enthusiast from Angola.
+## Hi, I’m Jorge Costa — a tech enthusiast from Angola.
 
 **`Desenvolvedor FullStack`**
 
